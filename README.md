@@ -1,2 +1,2 @@
 # codingbat-python
-CodingBat Python Challenges
+Complete CodingBat Python Challenges
