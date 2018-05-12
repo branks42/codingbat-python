@@ -79,4 +79,4 @@ def left2(str):
 	end = str[2:]
 	return end + first2
 
-# END.
+# END #
