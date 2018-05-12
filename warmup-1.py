@@ -96,4 +96,4 @@ def front3(str):
 
 	return first3 * 3
 
-# END.
+# END #
