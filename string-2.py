@@ -47,4 +47,4 @@ def xyz_there(str):
 		i += str[i:].index('xyz') + 2
 	return False
 
-# END.
+# END #
