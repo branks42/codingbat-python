@@ -113,4 +113,4 @@ def in1to10(n, outside_mode):
 def near_ten(num):
 	return num % 10 in [0,1,2,8,9,10]
 
-# END.
+# END #
